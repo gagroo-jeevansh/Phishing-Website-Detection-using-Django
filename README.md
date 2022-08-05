@@ -2,7 +2,7 @@
 
 ## About the project
 
-This is a web app, build on Django and deployed on Heroku, with aim that the user is able to identify whether or not a a website is a phishing site.
+This is a web app, build on Django and deployed on Heroku, with the aim that the user is able to identify whether or not a website is a phishing site.
 
 This is achieved by training a machine learning model using the Random forest classifier algorithm.
 The accuracy achieved is 97.8%.
